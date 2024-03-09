@@ -1,3 +1,5 @@
+***IN DEVELOPMENT!***
+
 in subreddit r/hardwareswap, users are selling items.
 
 By obtaining the posts within the subreddit, getting the item name and search their listing price on official retailer sites, you can see if
